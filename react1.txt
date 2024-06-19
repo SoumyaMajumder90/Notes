@@ -1,0 +1,2 @@
+In react jsx file. if in public folder then src - "/img.png"
+in src file, i have to import the img then add like src = {downloadimg}
